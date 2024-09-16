@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Colecciones",
+            "request": "launch",
+            "mainClass": "com.company.colecciones.Colecciones",
+            "projectName": "colecciones",
+            "preLaunchTask": "mvn clean install"
+        }
+    ]
+}
